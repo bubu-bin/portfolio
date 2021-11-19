@@ -1,0 +1,203 @@
+@import url('https://fonts.googleapis.com/css2?family=Grey+Qo&display=swap');
+
+
+* {
+  cursor: url("/Memory Cards/Images/magic_wand.png"), auto;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'Grey Qo', cursive;
+}
+
+.display {
+  display: none;
+}
+
+.container-game-panel{
+  height: 100vh;
+  width: 100%;
+  position: relative;
+  background: black;
+
+}
+
+/* Starting game-panel-baord */
+.game-panel-board{
+    height: 65%;
+    width: 50%;
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+
+}
+
+.drawing-game-board{
+  height: 100%;
+  width: 100%;
+  position: absolute;
+
+}
+
+.button-game-start{
+  fill: #f6c13f;
+  stroke: #000;
+  stroke-miterlimit: 10;
+}
+
+
+.button-game-start-fill-1-row{
+  fill: white;
+  stroke: #000;
+  stroke-miterlimit: 10;
+}
+
+.button-game-start-fill-2-row{
+  fill: white;
+  stroke: #000;
+  stroke-miterlimit: 10;
+}
+
+.button-game-start-fill-3-row{
+  fill: white;
+  stroke: #000;
+  stroke-miterlimit: 10;
+}
+
+/* ending game-panel-board */
+
+.game-panel-board-end{
+  height: 100%;
+  width: 100%;
+  position: absolute;
+}
+
+.container-memory-cards{
+  height: 100vh;
+  width: 100%;
+  position: relative;
+  background: linear-gradient(45deg,black,#662D91,#662D91,black);
+
+}
+
+
+
+.box-memory-cards{
+  position: relative;
+  height: 90%;
+  width: 80%;
+  margin: auto;
+}
+
+.container-hourglass-timer{
+  height: 20%;
+  width: 100%;
+  position: relative;
+
+}
+
+.box-hourglass-timer{
+  position: relative;
+  height: 100%;
+  width: 20%;
+  left: 50.5%;
+  transform: translate(-50%);
+  display: flex;
+}
+
+.hourglass{
+  position: relative;
+  height: 80%;
+  width: 50%;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.hourglass img{
+  height: 100%;
+  left: 50%;
+  position: absolute;
+  transform: translateX(-50%);
+}
+
+.timer{
+  position: relative;
+  height: 100%;
+  width: 50%;
+}
+
+#timer{
+  font-size:100px;
+  position: absolute;
+  left: 48%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  color:white;
+}
+.container-cards{
+  height: 80%;
+  width: 55%;
+  margin: auto;
+  position: relative;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  grid-gap: .1em;
+  margin-top: 1.5%;
+
+  perspective: 1000px;
+}
+
+.card{
+  position: relative;
+  height: 100%;
+  width: 100%;
+  transform-style: preserve-3d;
+  transition: transform 500ms;
+
+}
+
+.card-pointer-event{
+  pointer-events: none;
+}
+
+.card img{
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  /* width: 100%;
+  height: 100%; */
+  /* object-fit: scale-down; */
+}
+
+
+.flip{
+  transform: rotateY(180deg);
+}
+
+
+.card-front,
+.card-back{
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  backface-visibility: hidden;
+
+}
+
+.card-front{
+
+}
+
+.card-back{
+  background: #662D91;
+  transform: rotateY(180deg);
+}
+
+
+.rabbit{
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  margin: 2rem;
+  display: none;
+}

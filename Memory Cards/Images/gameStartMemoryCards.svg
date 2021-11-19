@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 669.15 483.45">
+  <g id="Drawing">
+    <path d="M365.7,164,352,198.59l71.12,25.65,592.33,2.62V192.35l-18.63-8.42,23.18-4.18V135.57s-112.57-1.26-128.46,0S721.82,145.2,705,148.34,420.49,171.37,365.7,164Z" transform="translate(-351.35 -116.05)" style="fill: #4c2b00;stroke: #000;stroke-miterlimit: 10"/>
+    <rect x="57.02" y="90.4" width="542.62" height="252.31" style="stroke: #000;stroke-miterlimit: 10"/>
+    <polygon points="587.53 110.81 574.88 393.48 620.1 393.48 655 110.81 587.53 110.81" style="fill: #4c2b00;stroke: #000;stroke-miterlimit: 10"/>
+    <polygon points="10.66 88.3 57.02 388.77 87.58 375.16 71.78 108.19 10.66 88.3" style="fill: #4c2b00;stroke: #000;stroke-miterlimit: 10"/>
+    <path d="M367.8,448.81v13.4h21.54l-15.21,3.35,8.43,17.79L1001,502.2V480.3l-22-4.8h9.11l.25-20.41S372,450.9,367.8,448.81Z" transform="translate(-351.35 -116.05)" style="fill: #4c2b00;stroke: #000;stroke-miterlimit: 10"/>
+    <g style="opacity: 0.75">
+      <path d="M403,221.32A136.74,136.74,0,0,1,408.87,246a215.11,215.11,0,0,1,1.67,25.36c.07,8.47-.34,16.91-.77,25.32l-1.62,25.13-.36,6.26c-.13,2.08-.23,4.17-.3,6.25s-.2,4.16-.24,6.24l-.11,6.24c-.08,2.08,0,4.15,0,6.23s0,4.15.13,6.22c.2,4.15.43,8.3.79,12.44,1.45,16.59,4.41,33.1,7.63,49.63a251.57,251.57,0,0,1-12.28-49.1c-.63-4.19-1.08-8.42-1.39-12.66-.17-2.12-.27-4.25-.35-6.37s-.23-4.25-.23-6.37c-.15-8.5.23-17,.72-25.38s1.26-16.8,1.95-25.15,1.27-16.69,1.76-25c.33-8.33.44-16.66.07-25A198.93,198.93,0,0,0,403,221.32Z" transform="translate(-351.35 -116.05)" style="fill: #351000"/>
+    </g>
+    <g style="opacity: 0.75">
+      <path d="M379.67,227.84c5.38,16,9.8,32.4,13.62,48.89.94,4.12,1.87,8.25,2.75,12.39l2.52,12.45c.8,4.15,1.51,8.33,2.26,12.49l2.09,12.53q3.9,25.1,5.89,50.43c1.34,16.87,2.06,33.79,1.77,50.72l-6.43-50.23q-3.3-25.06-7.16-50L395.05,315c-.69-4.15-1.42-8.29-2.06-12.45l-2.1-12.46c-.77-4.14-1.47-8.29-2.17-12.45Z" transform="translate(-351.35 -116.05)" style="fill: #351000"/>
+    </g>
+    <g style="opacity: 0.75">
+      <path d="M951.71,227.4a198.73,198.73,0,0,1,.83,25.22c-.21,8.39-.8,16.78-1.74,25.12s-2.22,16.65-3.89,24.88a196.06,196.06,0,0,1-6.43,24.4c.28-8.45,1-16.78,1.77-25.09s1.65-16.59,2.59-24.86,1.93-16.54,3-24.82S950.11,235.7,951.71,227.4Z" transform="translate(-351.35 -116.05)" style="fill: #351000"/>
+    </g>
+    <g style="opacity: 0.75">
+      <path d="M993.54,232.25c-.36,8.41-1.31,16.7-2.18,24.95s-1.8,16.44-2.44,24.63-1,16.36-.93,24.58.44,16.49.86,24.89a107.21,107.21,0,0,1-5.56-24.61,133.16,133.16,0,0,1-.35-25.33,182.52,182.52,0,0,1,3.78-24.92A206.48,206.48,0,0,1,993.54,232.25Z" transform="translate(-351.35 -116.05)" style="fill: #351000"/>
+    </g>
+    <g style="opacity: 0.75">
+      <path d="M941.54,441.82c.35-16.53,1.28-33,2.42-49.46.51-8.24,1.24-16.45,1.87-24.67l2.2-24.64q2.34-24.63,5.39-49.18c2-16.37,4.24-32.73,7.06-49-.33,16.53-1.26,33-2.4,49.47s-2.49,32.89-4.08,49.3l-2.53,24.61c-1,8.19-1.81,16.39-2.87,24.57C946.58,409.17,944.36,425.53,941.54,441.82Z" transform="translate(-351.35 -116.05)" style="fill: #351000"/>
+    </g>
+    <g style="opacity: 0.75">
+      <path d="M393.27,222c4.1,3.65,6.85,8.78,8.55,14.05a67.5,67.5,0,0,1,2.78,16.17c.32,5.39.35,10.68.18,16a109.8,109.8,0,0,1-1.56,16.07,112.64,112.64,0,0,1-3.15-15.84c-.71-5.28-1.15-10.63-1.46-15.88s-.65-10.39-1.36-15.48A64.91,64.91,0,0,0,393.27,222Z" transform="translate(-351.35 -116.05)" style="fill: #351000"/>
+    </g>
+    <g style="opacity: 0.75">
+      <path d="M695.64,473.25a225.64,225.64,0,0,1,23.1-1.85c7.72-.16,15.47-.15,23.18.21s15.42.86,23.09,1.41L788,475c15.29,1.34,30.52,2.58,45.81,3s30.62.18,46-.49a261.22,261.22,0,0,1-46,5.17,399.72,399.72,0,0,1-46.33-1.73q-11.52-1.1-23-2.28c-7.64-.87-15.27-1.59-22.9-2.39l-5.72-.56q-2.86-.22-5.73-.49c-3.82-.36-7.64-.62-11.47-.89C711,473.76,703.36,473.53,695.64,473.25Z" transform="translate(-351.35 -116.05)" style="fill: #351000"/>
+    </g>
+    <g style="opacity: 0.75">
+      <path d="M440.54,466c23.4-4.18,47.29-5.5,71.06-5.49,11.9,0,23.79.38,35.66.84s23.7,1.26,35.55,1.93,23.7,1.61,35.54,2.77,23.69,2.63,35.43,4.76c23.45,4.13,46.74,10.61,68,21.33-22.23-8.41-45.37-13.47-68.72-16.7-11.69-1.56-23.42-2.84-35.21-3.73s-23.58-1.75-35.41-2.44L547,467c-11.81-.78-23.63-1.34-35.44-1.84A649.21,649.21,0,0,0,440.54,466Z" transform="translate(-351.35 -116.05)" style="fill: #351000"/>
+    </g>
+    <g style="opacity: 0.75">
+      <path d="M695.7,473.32a115.33,115.33,0,0,1,24.4-9.3,143.37,143.37,0,0,1,52.07-3.78,114.84,114.84,0,0,1,25.49,5.68c-8.7-.46-17.24-.91-25.78-1s-17,.17-25.48.78-16.91,1.58-25.34,2.89S704.23,471.59,695.7,473.32Z" transform="translate(-351.35 -116.05)" style="fill: #351000"/>
+    </g>
+    <g style="opacity: 0.75">
+      <path d="M807.55,156a207,207,0,0,1,29-7.45,273.15,273.15,0,0,1,59.61-4.37,206.21,206.21,0,0,1,29.74,3.16c-10,.65-19.85,1-29.71,1.56s-19.69,1.1-29.52,1.82-19.64,1.55-29.46,2.49S817.51,155.22,807.55,156Z" transform="translate(-351.35 -116.05)" style="fill: #351000"/>
+    </g>
+    <g style="opacity: 0.75">
+      <path d="M458.39,195.4a18,18,0,0,0,7,.31c2.33-.28,4.64-.78,7-1.28a72.76,72.76,0,0,1,14.35-1.68c4.81-.12,9.58,0,14.27-.08s9.33-.45,14-1c9.33-1.13,18.89-2.54,28.59-2.79s19,.11,28.18-1.15c4.63-.56,9.31-1.35,14.11-2s9.63-1,14.43-1.17,9.6-.23,14.38-.23,9.54.08,14.31.24a512.49,512.49,0,0,1,57,4.56c-19.06-.14-38-.24-57,.12-9.48.25-19,.33-28.36,1-4.69.32-9.35.72-14,1.37s-9.32,1.44-14.14,2c-9.74,1.21-19.44.81-28.81.87-4.7,0-9.32.23-14,.61s-9.44.85-14.23,1.15a127,127,0,0,1-14.48.27c-4.82-.22-9.55-.67-14.25-.9-2.35-.13-4.7-.2-7-.14s-4.65.26-7,.52-4.76.53-7.17.55A17.62,17.62,0,0,1,458.39,195.4Z" transform="translate(-351.35 -116.05)" style="fill: #351000"/>
+    </g>
+    <text x="-351.35" y="-116.05"/>    <text transform="translate(170.79 153.19) scale(0.72 1)" style="font-size: 56px;fill: #fff3a4;stroke: #000;stroke-miterlimit: 10;stroke-width: 0.5px;font-family: LinuxLibertineG, Linux Libertine G;letter-spacing: -0.050823836844676146em">T<tspan x="30.57" y="0" style="letter-spacing: -0.0020088948527954833em">able</tspan></text>
+    <text transform="translate(131.85 227.16) scale(0.66 1)" style="font-size: 56px;fill: #fff3a4;stroke: #000;stroke-miterlimit: 10;stroke-width: 0.5px;font-family: LinuxLibertineG, Linux Libertine G;letter-spacing: -0.001993711834113025em">Tim<tspan x="92.47" y="0" style="letter-spacing: 0.004832440604538855em">e</tspan><tspan x="117.76" y="0">out</tspan></text>
+    <text transform="translate(107.22 309.49) scale(0.65 1)" style="font-size: 56px;fill: #fff3a4;stroke: #000;stroke-miterlimit: 10;stroke-width: 0.5px;font-family: LinuxLibertineG, Linux Libertine G;letter-spacing: -0.0019916377738038544em">Time limit</text>
+  </g>
+  <g id="Buttons">
+    <g id="__butTable3x4">
+      <polygon id="_3x4_Button" data-name="3x4 Button" points="308.86 114.95 308.86 125.91 316.45 125.38 308.86 129.25 316.45 157.6 370.86 157.81 370.86 141.34 360.1 136.38 370.86 136.38 370.86 114.95 308.86 114.95" style="fill: #f6c13f;stroke: #000;stroke-miterlimit: 10"/>
+      <text transform="translate(322.17 143.84) scale(0.96 1)" style="font-size: 24px;fill: #f6c13f;stroke: #000;stroke-miterlimit: 10;font-family: Microsoft-Yi-Baiti, Microsoft Yi Baiti;font-style: italic;letter-spacing: -0.0010215833806640777em">3x4</text>
+    </g>
+    <g id="__butTable4x4">
+      <polygon id="_3x4_Button-2" data-name="3x4 Button" points="408.73 114.95 408.73 125.91 416.32 125.38 408.73 129.25 416.32 157.6 470.72 157.81 470.72 141.34 459.97 136.38 470.72 136.38 470.72 114.95 408.73 114.95" style="fill: #f6c13f;stroke: #000;stroke-miterlimit: 10"/>
+      <text transform="translate(424.22 143.6) scale(0.96 1)" style="font-size: 24px;fill: #f6c13f;stroke: #000;stroke-miterlimit: 10;font-family: Microsoft-Yi-Baiti, Microsoft Yi Baiti;font-style: italic;letter-spacing: -0.0010215833806640777em">4x4</text>
+    </g>
+    <g id="__butTable5x4">
+      <polygon id="_3x4_Button-3" data-name="3x4 Button" points="505.59 114.95 505.59 125.91 513.18 125.38 505.59 129.25 513.18 157.6 567.58 157.81 567.58 141.34 556.83 136.38 567.58 136.38 567.58 114.95 505.59 114.95" style="fill: #f6c13f;stroke: #000;stroke-miterlimit: 10"/>
+      <text transform="translate(519.61 143.6) scale(0.96 1)" style="font-size: 24px;fill: #f6c13f;stroke: #000;stroke-miterlimit: 10;font-family: Microsoft-Yi-Baiti, Microsoft Yi Baiti;font-style: italic;letter-spacing: -0.0010215833806640777em">5x4</text>
+    </g>
+    <g id="__butTO0_5s">
+      <polygon id="_3x4_Button-4" data-name="3x4 Button" points="308.65 191.72 308.65 202.68 316.25 202.14 308.65 206.01 316.25 234.37 370.65 234.58 370.65 218.1 359.89 213.15 370.65 213.15 370.65 191.72 308.65 191.72" style="fill: #f6c13f;stroke: #000;stroke-miterlimit: 10"/>
+      <text transform="translate(322.39 219.42) scale(0.87 1)" style="font-size: 24px;fill: #f6c13f;stroke: #000;stroke-miterlimit: 10;font-family: Microsoft-Yi-Baiti, Microsoft Yi Baiti;font-style: italic;letter-spacing: -0.0009803450259217696em">0.5s</text>
+    </g>
+    <g id="__butTO1s">
+      <polygon id="_3x4_Button-5" data-name="3x4 Button" points="408.99 191.72 408.99 202.68 416.58 202.14 408.99 206.01 416.58 234.37 470.98 234.58 470.98 218.1 460.23 213.15 470.98 213.15 470.98 191.72 408.99 191.72" style="fill: #f6c13f;stroke: #000;stroke-miterlimit: 10"/>
+      <text transform="translate(432.61 219.57) scale(0.76 1)" style="font-size: 24px;fill: #f6c13f;stroke: #000;stroke-miterlimit: 10;font-family: Microsoft-Yi-Baiti, Microsoft Yi Baiti;font-style: italic;letter-spacing: -0.0010167257021840266em">1s</text>
+    </g>
+    <g id="__butTO1_5s">
+      <polygon id="_3x4_Button-6" data-name="3x4 Button" points="505.39 191.82 505.39 202.78 512.98 202.25 505.39 206.12 512.98 234.47 567.38 234.68 567.38 218.21 556.63 213.25 567.38 213.25 567.38 191.82 505.39 191.82" style="fill: #f6c13f;stroke: #000;stroke-miterlimit: 10"/>
+      <text transform="translate(517.68 219.87) scale(0.96 1)" style="font-size: 24px;fill: #f6c13f;stroke: #000;stroke-miterlimit: 10;font-family: Microsoft-Yi-Baiti, Microsoft Yi Baiti;font-style: italic;letter-spacing: -0.0010215833806640777em">1.5s</text>
+    </g>
+    <g id="__butTL45s">
+      <polygon id="_3x4_Button-7" data-name="3x4 Button" points="308.55 275.49 308.55 286.44 315.68 285.91 308.55 289.78 315.68 318.13 366.75 318.34 366.75 301.87 356.65 296.91 366.75 296.91 366.75 275.49 308.55 275.49" style="fill: #f6c13f;stroke: #000;stroke-miterlimit: 10"/>
+      <text transform="translate(324.2 303.67) scale(0.71 1)" style="font-size: 24px;fill: #f6c13f;stroke: #000;stroke-miterlimit: 10;font-family: Microsoft-Yi-Baiti, Microsoft Yi Baiti;font-style: italic;letter-spacing: -0.0009690303564846587em">45s</text>
+    </g>
+    <g id="__butTL60s">
+      <polygon id="_3x4_Button-8" data-name="3x4 Button" points="373.05 275.49 373.05 286.44 380.18 285.91 373.05 289.78 380.18 318.13 431.25 318.34 431.25 301.87 421.15 296.91 431.25 296.91 431.25 275.49 373.05 275.49" style="fill: #f6c13f;stroke: #000;stroke-miterlimit: 10"/>
+      <text transform="translate(389.69 303.67) scale(0.61 1)" style="font-size: 24px;fill: #f6c13f;stroke: #000;stroke-miterlimit: 10;font-family: Microsoft-Yi-Baiti, Microsoft Yi Baiti;font-style: italic;letter-spacing: -0.0009996101130086566em">60s</text>
+    </g>
+    <g id="__butTL120s">
+      <polygon id="_3x4_Button-9" data-name="3x4 Button" points="439.82 275.49 439.82 286.44 446.94 285.91 439.82 289.78 446.94 318.13 498.01 318.34 498.01 301.87 487.92 296.91 498.01 296.91 498.01 275.49 439.82 275.49" style="fill: #f6c13f;stroke: #000;stroke-miterlimit: 10"/>
+      <text transform="translate(453.76 303.22) scale(0.61 1)" style="font-size: 24px;fill: #f6c13f;stroke: #000;stroke-miterlimit: 10;font-family: Microsoft-Yi-Baiti, Microsoft Yi Baiti;font-style: italic;letter-spacing: -0.0009996101130086566em">120s</text>
+    </g>
+    <g id="__butTLInfinity">
+      <g id="_1sbutton" data-name="1sbutton">
+        <polygon id="_3x4_Button-10" data-name="3x4 Button" points="507.46 275.49 507.46 286.44 514.59 285.91 507.46 289.78 514.59 318.13 565.65 318.34 565.65 301.87 555.56 296.91 565.65 296.91 565.65 275.49 507.46 275.49" style="fill: #f6c13f;stroke: #000;stroke-miterlimit: 10"/>
+        <text x="-351.35" y="-116.05"/>      </g>
+      <text transform="matrix(-0.05, 1.31, -1, -0.04, 526.68, 283.48)" style="font-size: 37px;stroke: #000;stroke-miterlimit: 10;font-family: Microsoft-Yi-Baiti, Microsoft Yi Baiti;font-style: italic;letter-spacing: -0.0009828505762113557em">8</text>
+    </g>
+  </g>
+  <g id="Title">
+    <text transform="translate(57.24 80.06) scale(1.01 1)" style="font-size: 76.4254150390625px;fill: #fff3a4;stroke: #000;stroke-miterlimit: 10;font-family: Algerian;letter-spacing: -0.000996689025002397em">Memory Cards</text>
+  </g>
+  <g id="Playbutton">
+    <path d="M497.45,522.57v15.88s21-1.93,18.42,0-10.49,5.27-10.49,5.27l4.72,43.76H874.65V561.06l-14.23-6,6.86-4.19,1.05-23Z" transform="translate(-351.35 -116.05)" style="fill: #4c2b00;stroke: #000;stroke-miterlimit: 10"/>
+    <g style="opacity: 0.75">
+      <path d="M519,562.27a128.47,128.47,0,0,1,17-7.52,60.68,60.68,0,0,1,18.63-3.48,128.86,128.86,0,0,1,18.75,1.24q9.17,1.11,18.32,2.37c6.11.89,12.14,1.63,18.37,2.8a70.34,70.34,0,0,1,9.25,2.44c3,1,5.82,2.11,8.65,3a66.05,66.05,0,0,0,35.72.78,56.22,56.22,0,0,1-37,3.77c-3.11-.73-6.08-1.68-9-2.49a73.1,73.1,0,0,0-8.69-1.9c-2.95-.47-6-.85-9-1.23l-9.15-1.23q-9.15-1.27-18.28-2.68a168.16,168.16,0,0,0-18-2.17,67.67,67.67,0,0,0-17.82,1.6C530.82,558.79,524.93,560.65,519,562.27Z" transform="translate(-351.35 -116.05)" style="fill: #351000"/>
+    </g>
+    <g style="opacity: 0.75">
+      <path d="M785.91,538.5a134,134,0,0,1,15.31-1.45c5.07-.23,10.12-.3,15.16-.26s10,.18,15,.12a145,145,0,0,0,15.08-.92,38.89,38.89,0,0,1-14.6,5.61,79.53,79.53,0,0,1-15.49,1.19,130.62,130.62,0,0,1-15.3-1A84.69,84.69,0,0,1,785.91,538.5Z" transform="translate(-351.35 -116.05)" style="fill: #351000"/>
+    </g>
+    <g style="opacity: 0.75">
+      <path d="M735,560.4c4.49-1.21,9.26-1.18,13.86-1s9.16.6,13.73,1,9.12.87,13.67,1.39,9,1,13.79,2a42.47,42.47,0,0,1,7,2.15l3.18,1.33c1,.43,2,.78,3.06,1.18a85.36,85.36,0,0,0,12.76,3.44,109.22,109.22,0,0,0,13.33,1.57,117.55,117.55,0,0,0,13.65-.14,61.5,61.5,0,0,1-13.56,3.08,73.24,73.24,0,0,1-14.05.16,67.51,67.51,0,0,1-13.94-2.71c-2.3-.71-4.53-1.62-6.58-2.38a37.48,37.48,0,0,0-6.11-1.82c-2.1-.46-4.3-.79-6.55-1.12l-6.78-1.06c-4.51-.74-9-1.52-13.52-2.37s-9-1.77-13.46-2.74A70.85,70.85,0,0,0,735,560.4Z" transform="translate(-351.35 -116.05)" style="fill: #351000"/>
+    </g>
+    <text transform="translate(231.41 464.3) scale(0.88 1)" style="font-size: 71.93464660644531px;fill: #fff3a4;stroke: #000;stroke-miterlimit: 10;font-family: Algerian;letter-spacing: -0.00100618200276989em">Start</text>
+  </g>
+</svg>

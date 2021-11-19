@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="147.21" height="173.22" viewBox="0 0 147.21 173.22">
+  <g id="Warstwa_2" data-name="Warstwa 2">
+    <g id="Warstwa_2-2" data-name="Warstwa 2">
+      <g>
+        <g>
+          <polygon points="71.15 71.98 108.58 46.07 145.5 71.98 109.08 98.88 71.15 71.98" style="stroke: #fff;stroke-miterlimit: 10;stroke-width: 2px"/>
+          <path d="M109.08,152.41,71.4,124.92q-.25-26.4-.5-52.81l38.18,26.77Z" style="stroke: #fff;stroke-miterlimit: 10;stroke-width: 2px"/>
+          <path d="M144.77,125.64l-35.69,26.77V98.88l36.19-26.77Q145,98.89,144.77,125.64Z" style="stroke: #fff;stroke-miterlimit: 10;stroke-width: 2px"/>
+        </g>
+        <g>
+          <polygon points="1.74 90.79 39.17 64.88 76.09 90.79 39.67 117.69 1.74 90.79" style="stroke: #fff;stroke-miterlimit: 10;stroke-width: 2px"/>
+          <path d="M39.67,171.22,2,143.73q-.24-26.4-.5-52.81l38.18,26.77Z" style="stroke: #fff;stroke-miterlimit: 10;stroke-width: 2px"/>
+          <path d="M75.36,144.45q-17.83,13.4-35.69,26.77V117.69L75.86,90.92Q75.6,117.7,75.36,144.45Z" style="stroke: #fff;stroke-miterlimit: 10;stroke-width: 2px"/>
+        </g>
+        <g>
+          <polygon points="32.98 27.13 70.41 1.22 107.32 27.13 70.9 54.03 32.98 27.13" style="stroke: #fff;stroke-miterlimit: 10;stroke-width: 2px"/>
+          <path d="M70.9,107.56,33.22,80.07q-.24-26.4-.49-52.81L70.9,54Z" style="stroke: #fff;stroke-miterlimit: 10;stroke-width: 2px"/>
+          <path d="M106.6,80.79,70.9,107.56V54l36.19-26.77Q106.85,54,106.6,80.79Z" style="stroke: #fff;stroke-miterlimit: 10;stroke-width: 2px"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

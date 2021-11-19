@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="172.68" height="198.78" viewBox="0 0 172.68 198.78">
+  <g id="Warstwa_2" data-name="Warstwa 2">
+    <g id="Warstwa_2-2" data-name="Warstwa 2">
+      <g>
+        <path d="M64.78,71.7S74.79,61.51,78,61.51l1.3-13.79H95.59l2.32,12s11.29,7.5,12.58,9.3l12.93-3,7.75,13.19-8.72,12L122.12,108l9,10.26-7.75,14.93-13.57-3S99.67,139.36,98,139l-1.37,12.8H79.07l-1.53-13.2S66.23,132.69,64.78,129L52,134.37l-7.11-15,8.72-10.2V90.59l-8.72-9.48L52,65.41Z" style="fill: #fff;stroke: #000;stroke-miterlimit: 10;stroke-width: 10px"/>
+        <g>
+          <path d="M89.49,15.18l59.56-.74c1.94.67,5.85,2.69,7.44,9.67a35.2,35.2,0,0,1,.65,8.92c-.12,3.94-.2,8.43-.26,13.6" style="fill: none;stroke: #000;stroke-miterlimit: 10;stroke-width: 14px"/>
+          <polygon points="141.57 34.71 157.07 41.44 172.68 34.97 156.82 71.7 141.57 34.71"/>
+        </g>
+        <g>
+          <path d="M82.91,184.34l-59.44-.81c-1.44-.22-4.46-1.07-6.35-5.39-1.44-3.31-1.56-7.15-1.63-9.79q-.08-3-.12-5.91" style="fill: none;stroke: #000;stroke-miterlimit: 10;stroke-width: 14px"/>
+          <polygon points="31.11 174.08 15.49 167.63 0 174.39 15.19 137.37 31.11 174.08"/>
+        </g>
+        <g>
+          <path d="M157.76,102.89l.39,70.8c-.35,1.27-1.53,5.14-4.3,7.59a6.86,6.86,0,0,1-5.47,1.89l-13.63.45" style="fill: none;stroke: #000;stroke-miterlimit: 10;stroke-width: 14px"/>
+          <polygon points="146.03 167.69 139.93 183.45 147.04 198.78 109.69 184.44 146.03 167.69"/>
+        </g>
+        <g>
+          <path d="M14.46,94.49q-.17-34.78-.31-69.59a15.7,15.7,0,0,1,4.44-7.43,7.31,7.31,0,0,1,5.65-1.84l14.88-.4" style="fill: none;stroke: #000;stroke-miterlimit: 10;stroke-width: 14px"/>
+          <polygon points="27.74 31.09 33.93 15.37 26.91 0 64.18 14.57 27.74 31.09"/>
+        </g>
+        <text transform="translate(72.12 120.43) scale(0.9 1)" style="font-size: 68.9577865600586px;font-family: MyriadPro-Regular, Myriad Pro">$</text>
+      </g>
+    </g>
+  </g>
+</svg>

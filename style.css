@@ -1,0 +1,431 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,600;0,700;0,800;0,900;1,100&display=swap');
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@500&display=swap');
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+
+html{
+  scroll-behavior: smooth;
+  /* font-size: 100%; */
+}
+
+body{
+  background: #F2F2F2;
+  width: 100%;
+  font-size: 100%;
+}
+
+a{
+  text-decoration: none;
+  color: black;
+}
+
+.smaller-phone{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  font-size: 40px;
+  font-weight: bold;
+  text-align: center;
+  display: none;
+}
+
+:root{
+  --blue:#1B1464;
+  --orange:#F15A24;
+  --light-blue:#0071BC;
+}
+#home-page{
+  min-height: 100vh;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  overflow: hidden;
+  background-position: bottom right;
+  background-image: url(/Media/Ja_z_lupa.svg);
+  background-repeat: no-repeat;
+}
+
+.home{
+  /* width: 30%; */
+  /* height: 35%; */
+  margin-left: 5em;
+
+}
+
+
+  .home-logo{
+    position: absolute;
+    top: 0;
+
+    margin: 1.2em;
+    display: flex;
+    align-items: center;
+
+  }
+
+
+  .home-logo p{
+    font-size: 1.25em;
+  font-weight: 600;
+  margin-left: 2em;
+  color: black;
+  /* background: var(--blue); */
+}
+
+.home-logo p:hover{
+  border-bottom: var(--blue) solid 3px;
+  cursor: pointer;
+
+}
+
+
+
+#home-logo-name{
+  font-family: 'Caveat', cursive;
+  font-size: 2.5em;
+  color: white;
+  padding: .5em .75em;
+  background: var(--blue);
+  font-weight: 600;
+  margin-left: 1.5em;
+}
+.home-title{
+  font-size: 1.75em;
+  font-weight: 600;
+  /* width: 150%; */
+  position:relative;
+  color: black;
+}
+.home-my-description{
+  /* height: 40%; */
+  width: 60%;
+  height: 100%;
+  /* position: absolute; */
+  position: relative;
+  bottom: 0;
+  /* margin-top: 5px; */
+}
+
+.home-my-description p{
+  font-weight: 800;
+  color: #333333;
+  font-size: 2.5em;
+  color: black;
+}
+
+
+
+
+
+#skills-page{
+  height: 250px;
+  width: 100%;
+  position: relative;
+  background: var(--blue);
+
+}
+
+.skills-svg{
+  width: 70%;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+
+}
+
+.logos{
+  position: absolute;
+  height: 20px;
+  width: 20px;
+  border: black solid 2px;
+  display: none;
+}
+
+
+#projects-page{
+  height: 155vh;
+  width: 100%;
+  position: relative;
+  display: flex;
+  /* background: var(--light-blue); */
+  z-index: 4;
+  overflow: hidden;
+}
+
+.proj-button{
+  top: 50%;
+  left: 50%;
+  position: absolute;
+  z-index: 6;
+  transform: translate(-50%, -50%);
+  /* opacity: 0; */
+}
+
+.proj-button button{
+  background: transparent;
+  padding: .65em;
+  color: white;
+  border: white solid 0.1em;
+  font-size: 1.9em;
+  border-radius: 10px;
+  font-weight: 600;
+  /* opacity: 1; */
+  /* -webkit-text-stroke: 3px black; */
+}
+
+.proj-button button:hover{
+  /* background: black; */
+  background:#0066ff;
+}
+
+.projects-bg{
+  height: 100%;
+  width: 100%;
+}
+
+#canvas{
+  height: 100%;
+  width: 100%;
+  background: var(--light-blue);
+  z-index: 5;
+  position: absolute;
+  left: 0;
+}
+
+
+#contact-page{
+  height: 85vh;
+  width: 100%;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+  flex-direction: column;
+  background: var(--blue);
+}
+
+.contact-background{
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  background-image: url(/Media/background_Contact.svg);
+  background-repeat:no-repeat;
+  background-position: bottom;
+}
+
+.contact-background-left {
+  height: 100%;
+  width: 100%;
+
+  position: absolute;
+
+  /* transform: translateX(-100%); */
+}
+.contact-background-left--svg{
+  height: 80%;
+  top: 20%;
+  margin-right: 1.5em;
+  position: relative;
+  background-image: url(/Media/callhand.svg);
+  background-repeat:no-repeat;
+  background-position: bottom right;
+}
+
+.contact-background-right--svg{
+  height: 60%;
+  top: -20px;
+  width: 30%;
+  margin-left: 50px;
+  /* top: 20%; */
+  position: absolute;
+  margin-right: 30px;
+  /* position: relative; */
+  background-image: url(/Media/callhand_transformed.svg);
+  background-repeat:no-repeat;
+  background-position: top left;
+}
+
+
+.contact-container{
+
+  width: 27%;
+  height: 70%;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  /* position: relative;
+  left: 50%;
+  top: 50%;
+  transform: translate(-100%,-50%); */
+  /* z-index: 5; */
+}
+
+.contact-title{
+  font-size: 2em;
+  font-weight: 600;
+  color: white;
+  text-align: center;
+  display: none;
+
+}
+
+.contact-mail-container{
+  margin-top: 30px;
+  position: relative;
+  width: 85%;
+  height: 80vh;
+  background: #F2F2F2;
+  border-radius: 5px;
+  display: none;
+  align-items: center;
+  justify-content: center;
+  /* box-shadow: 2.5px 2.5px 2.5px 50px grey; */
+  /* justify-content: center; */
+}
+
+.contact-mail-container--align{
+  position: relative;
+  width: 85%;
+  height: 92.5%;
+  display: flex;
+  flex-direction:column;
+  /* justify-content: space-between; */
+}
+
+.contact-mail-container--align p{
+  font-size: 0.8em;
+  color: var(--blue);
+  font-weight: 600;
+}
+
+.contact-mail-container--align >div:nth-child(n+2){
+  margin-top: 0.7em;
+}
+
+.contact--input input{
+  width: 100%;
+  position: relative;
+  height: 2.25em;
+  border-radius: 5px;
+  border: #B3B3B3 solid 1px;
+
+}
+
+.contact-message {
+  width: 100%;
+  height: 50%;
+  position: relative;
+
+}
+
+.contact-message textarea{
+  width: 100%;
+  height: 80%;
+  resize: none;
+  border-radius: 5px;
+  border: #B3B3B3 solid 1px;
+  /* height: 180%; */
+  position: relative;
+}
+
+.contact-button{
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+
+.contact-button button{
+  background: var(--orange);
+  color: white;
+  border: none;
+  padding: .5em;
+  border-radius: 5px;
+}
+
+#icon-message{
+  background-image:url(../Media/mail.png);
+    background-repeat: no-repeat;
+    background-position: 2px 3px;
+    background-size: 1.5em;
+}
+
+#icon-avatar{
+  background-image:url(../Media/user.png);
+    background-repeat: no-repeat;
+    background-position: 2px 3px;
+    background-size: 1.5em;
+}
+
+.links-social{
+  position: absolute;
+  z-index: 10;
+  bottom: 0;
+  /* transform: translateY(-50%); */
+  font-size:2em;
+  left: 50%;
+  transform: translateX(-50%);
+  /* margin-left: 5px; */
+  /* font-weight: 600; */
+}
+
+.links-social i{
+  /* margin-bottom: 20px; */
+  /* margin-left: 1px; */
+  /* border: grey solid .5px; */
+  border-radius: 5px;
+  padding: .15em;
+  /* background: grey; */
+  color:var(--light-blue);
+
+}
+
+
+
+button:hover{
+  cursor: pointer;
+  background: #d8440e;
+  transition:  250ms;
+  transform-origin: left;
+}
+
+#button:hover{
+  cursor: pointer;
+  fill:red;
+}
+
+a{
+  text-decoration: none;
+}
+
+::-webkit-scrollbar {
+  width: .75em;
+
+}
+
+::-webkit-scrollbar-track {
+  background: black;
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--blue);
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--light-blue);
+}

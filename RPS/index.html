@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="css.css">
+    <title>Wanna play a game?</title>
+    <script src="https://kit.fontawesome.com/a3a0246c81.js" crossorigin="anonymous"></script>
+  </head>
+  <body>
+
+    <div class="container-rps">
+      <!-- Stworz go wirtualnie -->
+      <div class="play-button" id = "playThisButton">
+        <p id = "start-name" >Play</p>
+      </div>
+      <div class="container-logo">
+        <img src="\RPS\Images\Logo RPS.svg" alt="">
+      </div>
+      <div class="container-starter">
+        <p id = "change-name-avatar">Select your avatar</p>
+        <div class="avatars-selection">
+          <div class="avatars-circle"><img src="\RPS\Images\Rzulwik.svg" alt="" class = "img-in-start" data-myav = "turtle"><p>Hardy</p></div>
+          <div class="avatars-circle"><img src="\RPS\Images\Penguin.svg" alt="" class = "img-in-start" data-myav = "penguin"><p>Frosty</p></div>
+          <div class="avatars-circle"><img src="\RPS\Images\johny coco.svg" alt="" class = "img-in-start" data-myav = "johnycoco"><p>Johny Coco</p></div>
+          <div class="avatars-circle"><img src="\RPS\Images\Cool Pi.svg" alt="" class = "img-in-start" data-myav = "coolpi"><p>Cool Pi</p></div>
+          <div class="avatars-circle"><img src="\RPS\Images\kot Funia.svg" alt="" class = "img-in-start" data-myav = "kotfunia"><p>Funia</p></div>
+        </div>
+        <!-- <div class="flexbox-details">
+
+          <div class="starter-skills">
+            <p id = "skill1Name"></p>
+            <div class="skill-1">
+              <div class="top-layer top-layer-skill-1">
+
+                <p id = "skill1Percent"></p>
+              </div>
+            </div>
+            <p id = "skill2Name"></p>
+            <div class="skill-2">
+              <div class="top-layer top-layer-skill-2">
+                <p id = "skill2Percent"></p>
+              </div>
+            </div>
+          </div>
+          <div class="starter-description">
+
+            <p id = "descriptionId"></p>
+          </div>
+
+        </div> -->
+
+      </div>
+      <div class="container-the-winner">
+        <p id = "title-won">You won</p>
+        <span><p>Wanna play another game?</p></span>
+        <div class="buttons-when-game-over">
+          <a href = 'javascript:window.open('','_self').close();'><button type="button" name="button" class = ''>Return</button></a>
+          <button type="button" name="button" class = "play-again">Play again</button>
+        </div>
+      </div>
+      <div class="container-in-depth-rps">
+        <div class="container-you">
+          <div class="name">
+            <p>You</p>
+            <p class = "number-left">0</p>
+          </div>
+          <div class="avatar">
+            <div class="avatar-circle">
+              <img src="" alt="" class = "user">
+            </div>
+            <div class="what-chosen what-chosen-left">
+              <img src="" alt="" id = "image-user-selected">
+            </div>
+          </div>
+          <div class="lifes lifes-left">
+            <i class="fas fa-heart"></i>
+            <i class="fas fa-heart"></i>
+            <i class="fas fa-heart"></i>
+          </div>
+          <div class="rps-options">
+            <div class="circles rps-option-rock">
+              <button type="button" name="button" class = "selection" data-selection = "rock"><img src="\RPS\Images\Rock.svg" alt="" class = "my-img"></button>
+            </div>
+            <div class="circles rps-option-paper">
+              <button type="button" name="button" class = "selection" data-selection = "paper"><img src="\RPS\Images\Paper.svg" alt="" class = "my-img"></button>
+            </div>
+            <div class="‪circles rps-option-paper">
+              <button type="button" name="button" class = "selection" data-selection = "scissors" ><img src="\RPS\Images\Scissor.svg" alt="" class = "my-img"> </button>
+            </div>
+          </div>
+        </div>
+        <div class="container-PC">
+          <div class="name">
+            <p>PC</p>
+            <p class = "number-right">0</p>
+          </div>
+          <div class="avatar">
+            <div class="avatar-circle">
+              <img src="\RPS\Images\PC_Icon.svg" alt="" class = "computer">
+            </div>
+            <div class="what-chosen what-chosen-right">
+              <img src="" alt="" id = "image-pc-selected">
+            </div>
+          </div>
+          <div class="lifes lifes-right">
+            <i class="fas fa-heart"></i>
+            <i class="fas fa-heart"></i>
+            <i class="fas fa-heart"></i>
+          </div>
+
+      </div>
+    </div>
+    <script src="javascript.js"></script>
+  </body>
+</html>

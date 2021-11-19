@@ -1,0 +1,32 @@
+<svg id="Warstwa_1" data-name="Warstwa 1" xmlns="http://www.w3.org/2000/svg" width="1050.66" height="674.34" viewBox="0 0 1050.66 674.34">
+  <rect y="1.43" width="233.24" height="93.99" style="fill: gray"/>
+  <g style="isolation: isolate">
+    <text transform="translate(20.3 73.61) scale(0.58 1)" style="isolation: isolate;font-size: 85.777099609375px;fill: #fff;font-family: ArialMT, Arial;letter-spacing: 0.005996694433500492em">M</text>
+    <text transform="translate(60.64 73.61) scale(0.58 1)" style="isolation: isolate;font-size: 85.777099609375px;fill: #fff;font-family: ArialMT, Arial">y tasks</text>
+  </g>
+  <rect x="796.83" y="129.43" width="227.67" height="128" style="fill: #f0f"/>
+  <rect x="341.5" y="129.43" width="227.67" height="128" style="fill: #00c896"/>
+  <g style="isolation: isolate">
+    <text transform="translate(365.79 221.5) scale(0.58 1)" style="isolation: isolate;font-size: 85.777099609375px;fill: #fff;font-family: ArialMT, Arial;letter-spacing: 0.005996694433500492em">Order 1</text>
+    <text transform="translate(828.38 221.5) scale(0.58 1)" style="isolation: isolate;font-size: 85.777099609375px;fill: #fff;font-family: ArialMT, Arial;letter-spacing: 0.005996694433500492em">Order 2</text>
+    <text y="1.43" style="isolation: isolate"/>  </g>
+  <rect x="569.17" y="545.34" width="227.67" height="128" style="stroke: #000;stroke-miterlimit: 10;stroke-width: 2px"/>
+  <g style="isolation: isolate">
+    <text transform="translate(615.45 638.95) scale(0.58 1)" style="isolation: isolate;font-size: 85.777099609375px;fill: #fff;font-family: ArialMT, Arial;letter-spacing: 0.006006508990674797em">Stock</text>
+    <text y="1.43" style="isolation: isolate"/>    <text y="1.43" style="isolation: isolate"/>  </g>
+  <polyline points="569.17 193.43 683 193.43 796.83 193.43" style="fill: none;stroke: #000;stroke-miterlimit: 10;stroke-width: 3px"/>
+  <g>
+    <line x1="683" y1="527.44" x2="683" y2="193.43" style="fill: none;stroke: #000;stroke-miterlimit: 10;stroke-width: 3px"/>
+    <polygon points="694.11 519.01 683 523.73 671.89 519.01 683 545.34 694.11 519.01"/>
+  </g>
+  <g style="isolation: isolate">
+    <text transform="translate(587.07 292.62) scale(0.52 1)" style="isolation: isolate;font-size: 30px;font-family: ArialMT, Arial;letter-spacing: 0.005983373988035718em">Clear data</text>
+    <text transform="translate(706.46 325.75) scale(0.45 1)" style="isolation: isolate;font-size: 30px;font-family: ArialMT, Arial;letter-spacing: 0.005995147750910284em">Remove duplicates</text>
+    <text transform="translate(416.17 357.94) scale(0.52 1)" style="isolation: isolate;font-size: 29.37636375427246px;font-family: ArialMT, Arial;letter-spacing: 0.006022038568423267em"><tspan xml:space="preserve">Filter if product  is from other group</tspan></text>
+    <text transform="translate(707.56 400.04) scale(0.49 1)" style="isolation: isolate;font-size: 29.76987075805664px;font-family: ArialMT, Arial;letter-spacing: 0.006025713854177326em">Join data togheter</text>
+    <text transform="translate(454.1 437.37) scale(0.53 1)" style="isolation: isolate;font-size: 29.37624740600586px;font-family: ArialMT, Arial;letter-spacing: 0.006006447532549303em"><tspan xml:space="preserve">Sum if same  product number</tspan></text>
+    <text transform="translate(704.8 472.37) scale(0.52 1)" style="isolation: isolate;font-size: 29.37643051147461px;font-family: ArialMT, Arial;letter-spacing: 0.006030562281526359em">Multiply price by quantity</text>
+    <text y="1.43" style="isolation: isolate"/>  </g>
+  <polyline points="569.17 586.27 568.78 586.27 568.78 629.49 569.17 629.49" style="fill: #f0f;stroke: #000;stroke-miterlimit: 10;stroke-width: 2px"/>
+  <polyline points="796.83 629.49 797.22 629.49 797.22 586.27 796.83 586.27" style="fill: #f0f;stroke: #000;stroke-miterlimit: 10;stroke-width: 2px"/>
+</svg>

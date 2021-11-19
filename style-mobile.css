@@ -1,0 +1,91 @@
+@media {
+  body {
+    font-size: 28px;
+  }
+
+  .contact-container {
+    width: 30%;
+  }
+  /* .links-social i{
+    font-size: 3.25rem;
+  }
+
+  .contact-mail-container{
+    height: 55vh;
+  }
+
+  .proj-button button{
+    font-size: 4.5rem;
+  }
+
+  .contact-title{
+    font-size: 3rem;
+  }
+
+  .contact-mail-container--align p{
+    font-size: 1.2rem;
+  } */
+
+}
+
+@media (max-width: 1440px) {
+  body {
+    font-size: 16px
+  }
+
+  .contact-mail-container{
+    height: 80vh;
+  }
+}
+
+@media (max-width: 768px) {
+  body {
+    font-size: 12px
+  }
+  .container-webpage{
+    display: none;
+  }
+  .smaller-phone{
+    display: flex;
+  }
+  /* #home-page{
+    min-height: 20vh;
+  } */
+  /* .links-social{
+    font-size: 1.5rem;
+  } */
+  #home-page{
+    background-position:bottom;
+    background-image: none;
+    padding: 40px;
+    align-items: baseline;
+    min-height: 60vh;
+  }
+
+  /* .home-title{
+    font-size: 1.5rem;
+  } */
+  .home-my-description{
+    /* height: 40%; */
+    width: 100%;
+    height: 100%;
+  }
+
+  .home{
+    margin-left: 0;
+  }
+
+  /* skills part */
+  #skills-page{
+    height: 100px;
+  }
+  .skills-svg{
+    width: 95%;
+  }
+
+  #projects-page{
+    height: 100vh;
+  }
+
+
+}

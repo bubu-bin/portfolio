@@ -1,0 +1,463 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Tourney:wght@800&display=swap');
+
+
+* {
+  margin:0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family:  sans-serif;
+}
+
+.container-rps{
+  height: 100vh;
+  width: 100%;
+  background: #628AA5;
+  position: relative;
+}
+
+.play-button{
+  padding: .75em;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  background: none;
+  font-size: 2rem;
+  display: none;
+  color: black;
+  z-index: 2;
+  transition: 200ms;
+}
+
+.play-button p{
+  font-family: 'Tourney', cursive;
+
+  padding: .2em;
+}
+
+.play-button p:hover{
+  color: white;
+  cursor: pointer;
+}
+.container-logo{
+  position: absolute;
+  height: 12%;
+  width: 7.5%;
+  margin: 1.5%;;
+}
+
+.container-starter{
+  top: 40%;
+  position: relative;
+  font-size: 40px;
+  z-index: 1;
+  transform: translateY(-50%);
+}
+
+.container-starter p{
+  font-weight: 700;
+ background: -webkit-linear-gradient(45deg, black, black);
+ -webkit-background-clip: text;
+ -webkit-text-fill-color: transparent;
+  text-align: center;
+}
+
+.avatars-selection{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  margin-top: 20px;
+}
+
+
+
+
+.avatars-selection >div{
+  height: 10rem;
+  width: 10rem;
+  margin: 0 5px;
+  border-radius: 50%;
+  position: relative;
+  border: black solid 3.5px;
+}
+
+.avatars-selection p{
+  font-size: 24px;
+  margin-top: 40%;
+  font-weight: 700;
+ background: -webkit-linear-gradient(90deg, black,black);
+ -webkit-background-clip: text;
+ -webkit-text-fill-color: transparent;
+  text-align: center;
+  /* border-bottom: black solid 3px; */
+  /* color: white; */
+}
+
+.avatars-circle{
+  /* background: white; */
+
+}
+
+.avatars-circle p{
+  color: white;
+}
+
+.bg-image-circle{
+  background: white;
+}
+.img-in-start{
+  height: 75%;
+  width: 75%;
+  position: relative;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  top: 15%;
+}
+
+.img-in-start-active{
+  transform: scale(1.3);
+  height: 75%;
+  width: 75%;
+  position: relative;
+  transition: 125ms;
+  /* top: 50%;
+  left: 50%; */
+}
+
+
+
+.avatars-selection >div:hover {
+  cursor: pointer;
+  background: #2E5871;
+  transition: 150ms ease-out;
+}
+
+
+/* TU */
+.flexbox-details {
+  width: 80%;
+  height: 50%;
+  right: -10%;
+  position: relative;
+  display: none;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+
+}
+
+.starter-description{
+  position: relative;
+  height: 100%;
+  width: 60%;
+  display: flex;
+  justify-content:  center;
+  align-items: center;
+  margin-top: 3%;
+  background: #3C6882;
+  padding: 1rem;
+  border-radius: 10px;
+  border: black solid 2px;
+}
+
+.starter-description p{
+  font-size: 20px;
+  /* color: black; */
+  font-weight: 650;
+ background: -webkit-linear-gradient(90deg, black,black);
+ -webkit-background-clip: text;
+ -webkit-text-fill-color: transparent;
+
+}
+
+
+.starter-skills {
+  position: relative;
+  height: 100%;
+  width: 40%;
+  display: flex;
+  flex-direction: column;
+  justify-content:  flex-start;
+  align-items: flex-start;
+  margin-top: 6%;
+
+}
+
+.starter-skills p{
+  font-size: 16px;
+  font-weight: 650;
+ background: -webkit-linear-gradient(90deg, black,black);
+ -webkit-background-clip: text;
+ -webkit-text-fill-color: transparent;
+ text-align: left;
+  margin-bottom: 0;
+}
+
+.starter-skills >div{
+  height: 30%;
+  width: 100%;
+  border: black solid 2px;
+  margin: 10px 0;
+  border-radius: 10px;
+
+}
+
+.top-layer{
+  height: 100%;
+  width: 100%;
+  border-radius: 10px 10px 10px 10px;
+}
+
+
+.top-layer p{
+  font-size: 16px;
+  text-align: right;
+  /* transform: translateY(20%); */
+  margin-right: 5px;
+  font-weight: 650;
+ background: -webkit-linear-gradient(90deg, black,black);
+ -webkit-background-clip: text;
+ -webkit-text-fill-color: transparent;
+
+}
+
+
+
+.top-layer-skill-1{
+  width: 80%;
+  background: #CACED1;
+  margin-right: 5px;
+}
+
+
+.top-layer-skill-2{
+width: 65%;
+background: #CACED1;
+}
+
+/* Ale ten chyba juz moze byc co nie */
+.container-the-winner{
+  top: 40%;
+  left: 50%;
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: 54px;
+  transform: translate(-50%,-50%);
+  z-index: 1;
+  display: none;
+}
+
+.container-the-winner p{
+  font-weight: 900;
+ background: -webkit-linear-gradient(90deg, grey, black,blue);
+ -webkit-background-clip: text;
+ -webkit-text-fill-color: transparent;
+}
+
+.container-the-winner span p{
+  font-size: 28px;
+}
+
+ .buttons-when-game-over button{
+  padding: 1em;
+  border-radius: 12px;
+  font-weight: 900;
+  background: white;
+  font-size: 12px;
+  border: black solid 2px;
+}
+
+ .buttons-when-game-over button:hover{
+   cursor: pointer;
+   transform: scale(1.15);
+   transition: 150ms;
+ }
+
+
+.container-in-depth-rps{
+  height: 70%;
+  width: 70%;
+  position: relative;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  display: none;
+
+}
+
+
+
+.container-you {
+  height: 100%;
+  width: 50%;
+  position: relative;
+  border-right: 7.5px solid #111111;
+}
+
+.container-PC {
+  height: 100%;
+  width: 50%;
+  position: relative;
+}
+
+.name{
+  width: 100%;
+  height: 20%;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.name p {
+  font-size: 64px;
+  color: #FFFFFF;
+}
+
+.number-left{
+  font-size: 64px;
+  position: absolute;
+  right: 5%;
+  color: #FFFFFF;
+}
+
+.number-right{
+  font-size: 64px;
+  position: absolute;
+  left: 5%;
+  color: #FFFFFF;
+}
+.avatar{
+  width: 100%;
+  height: 40%;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.avatar-circle {
+  height: 90%;
+  width: 35%;
+  border-radius: 50%;
+  background: #2E5871;
+}
+
+.avatar-circle img{
+  height: 70%;
+  width: 70%;
+  position: relative;
+  top: 50%;
+  left: 50%;
+    transform: translate(-50%, -50%);
+
+}
+
+.user{
+  visibility: hidden;
+}
+
+
+.what-chosen{
+  height: 50%;
+  width: 25%;
+  position: absolute;
+
+
+}
+
+.what-chosen img{
+    height: 50%;
+    width: 50%;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    position: relative;
+    visibility: hidden;
+}
+
+.what-chosen-left{
+  right: 2.5%;
+}
+
+.what-chosen-right{
+  left: 2.5%;
+}
+
+
+.computer{
+  height: 70%;
+  width: 65%;
+  top: 50%;
+  left: 50%;
+  position: relative;
+  transform: translate(-50%,-50%);
+}
+
+.user{
+  height: 100%;
+  width: 100%;
+
+   /* top: 50%;
+  left: 50%; */
+  /* position: relative; */
+  /* transform: translate(-50%,-50%);  */
+}
+
+.lifes{
+  width: 100%;
+  height: 10%;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.lifes i{
+  margin-left: 7.5px;
+  color: #BC0E0E;
+}
+
+
+
+.rps-options{
+  width: 100%;
+  height: 30%;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.rps-options >div{
+  width: 20%;
+  height: 70%;
+  background: #486577;
+  border-radius: 50%;
+  margin-left: 5%;
+
+}
+
+.rps-options button{
+  height: 65%;
+  width: 65%;
+  padding: 0;
+  border: none;
+  background: none;
+  top: 50%;
+  position: relative;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.rps-options button img:hover{
+  cursor: pointer;
+  transform:  scale(1.2);
+  transition: 150ms;
+}

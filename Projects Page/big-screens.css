@@ -1,0 +1,25 @@
+@media {
+  body {
+    font-size: 20px;
+  }
+  /* .filter-projects{
+    font-size: 1.2rem;
+  } */
+
+
+}
+
+@media (max-width: 1400px) {
+  body {
+    font-size: 15px
+  }
+
+}
+
+@media (max-width: 768px) {
+  body {
+    font-size: 12px
+  }
+
+
+}
